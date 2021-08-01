@@ -98,13 +98,26 @@ This is an application to show a location information of users choice ,uses the 
 ![cycle](draw.png) 
 
 ## Time Estimates 
+### feture 1
+1. Name of feature: Set up your React repository & API keys.
 
-Name of feature: Set up your React repository & API keys.
+2. Estimate of time needed to complete: ___2 hour__
 
-Estimate of time needed to complete: _____
+3. Start time: ___7:18__
 
-Start time: _____
+4. Finish time: ____9:18_
 
-Finish time: _____
+5. Actual time needed to complete: _40 min _
 
-Actual time needed to complete: __
+### feture 2
+1. Name of feature: Locations.
+
+2. Estimate of time needed to complete: 2 hour
+
+3. Start time: 11 PM
+
+4. Finish time: 1 PM
+
+5. Actual time needed to complete: 1 HOUR
+
+
