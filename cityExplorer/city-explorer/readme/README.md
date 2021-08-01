@@ -96,3 +96,15 @@ This is an application to show a location information of users choice ,uses the 
 
 
 ![cycle](draw.png) 
+
+## Time Estimates 
+
+Name of feature: Set up your React repository & API keys.
+
+Estimate of time needed to complete: _____
+
+Start time: _____
+
+Finish time: _____
+
+Actual time needed to complete: __
