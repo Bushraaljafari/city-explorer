@@ -121,3 +121,27 @@ This is an application to show a location information of users choice ,uses the 
 5. Actual time needed to complete: 1 HOUR
 
 
+### feture 3
+1. Name of feature: Map.
+
+2. Estimate of time needed to complete:  hour
+
+3. Start time: 1:30 PM
+
+4. Finish time:  PM
+
+5. Actual time needed to complete: HOUR
+still not finish
+
+### feture 4
+1. Name of feature: Locations.
+
+2. Estimate of time needed to complete:  hour
+
+3. Start time: PM
+
+4. Finish time: PM
+
+5. Actual time needed to complete:  HOUR
+
+
