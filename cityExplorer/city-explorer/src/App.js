@@ -24,11 +24,12 @@ class App extends React.Component{
   }
   respondButton=async (e)=>{
   e.preventDefault();
-  let request=`https://eu1.locationiq.com/v1/search.php?key=${process.env.REACT_App_Location_IQ_TOKEN}&q=${this.state.requestDataCity}&format=json`;
+  let request=`https://eu1.locationiq.com/v1/search.php?key=${process.env.REACT_App_Location_IQ_TOKEN}
+  &q=${this.state.requestDataCity}&format=json`;
   console.log(request);
   try {let respond= await axios.get(request);
     
-let weatherRequest=`http://localhost:3021/weather`;
+let weatherRequest=`${process.env.REACT_App_SERVER_URL}/weather?searchQuery=${respondWeatherData.display_name}`;
     let weatherDataRespond= await axios.get(weatherRequest);
   this.setState({
     respondDataCity:respond.data[0],
